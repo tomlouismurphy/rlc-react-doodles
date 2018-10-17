@@ -1,5 +1,7 @@
-.App {
-  text-align: center;
+.overall-container {
+  margin: 0px;
+  padding: 0px;
+  background-color: #222222;
 }
 
 .App-logo {
@@ -7,15 +9,18 @@
   height: 40vmin;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.recipe-path {
+  height: 5vh;
+  line-height: 5vh;
+  background-color: #333333;
+  text-align: left;
+  font-size: 1.8vh;
   color: white;
+  padding: 0px;
+}
+
+.path-information {
+
 }
 
 .App-link {

@@ -1,0 +1,18 @@
+.spec-unique {
+	border: 1px solid black;
+	width: 400px;
+	color: pink;
+}
+.spec-element {
+	display: inline;
+	margin: 0 auto;
+}
+
+.specs-bar {
+	width: 50vw;
+	margin: 0 auto;
+}
+
+.text-center {
+	text-align: center;
+}
