@@ -5,7 +5,7 @@ export class MainImage extends Component {
 	render() {
 		return (
 			<div className="image-container">
-         		<img className="recipe-illustration" src="./maccheese.jpg"></img>
+         		<img className="recipe-illustration" src="./maccheese.jpg" alt='mac'></img>
         	</div>
 		);
 	}

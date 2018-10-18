@@ -1,0 +1,44 @@
+#diff-text {
+	display: inline-block;
+	margin-left: 6px;
+	font-size: 16px;
+	position: relative;
+	top: -2px;
+}
+
+#diff-graphic {
+	display: inline-block;
+}
+
+#difficulty-scale1 {
+	height: 10px;
+	width: 8px;
+	background-color: #55ffff;
+	border-radius: 40%;
+	display: inline-block;
+	border: .5px dotted black;
+	position: relative;
+	top: 2px;
+}
+
+#difficulty-scale2 {
+	height: 16px;
+	width: 8px;
+	background-color: #eeeeee;
+	border-radius: 40%;
+	display: inline-block;
+	border: .5px dotted black;
+	position: relative;
+	top: 2px;
+}
+
+#difficulty-scale3 {
+	height: 22px;
+	width: 8px;
+	background-color: #eeeeee;
+	border-radius: 40%;
+	display: inline-block;
+	border: .5px dotted black;
+	position: relative;
+	top: 2px;
+}

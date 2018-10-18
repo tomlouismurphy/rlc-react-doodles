@@ -1,7 +1,6 @@
 .spec-unique {
 	border: 1px solid black;
-	width: 400px;
-	color: pink;
+	color: #eeeeee;
 }
 .spec-element {
 	display: inline;
