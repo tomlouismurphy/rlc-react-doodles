@@ -1,6 +1,6 @@
 #diff-text {
 	display: inline-block;
-	margin-left: 6px;
+	margin-left: 10px;
 	font-size: 16px;
 	position: relative;
 	top: -2px;
@@ -12,33 +12,35 @@
 
 #difficulty-scale1 {
 	height: 10px;
-	width: 8px;
+	width: 6px;
 	background-color: #55ffff;
 	border-radius: 40%;
 	display: inline-block;
-	border: .5px dotted black;
 	position: relative;
 	top: 2px;
+	left: -1px;
+	box-shadow: 0 0 1px 1px #55ffff;
 }
 
 #difficulty-scale2 {
 	height: 16px;
-	width: 8px;
+	width: 6px;
 	background-color: #eeeeee;
 	border-radius: 40%;
 	display: inline-block;
-	border: .5px dotted black;
 	position: relative;
 	top: 2px;
+	box-shadow: 0 0 1px 1px #eeeeee;
 }
 
 #difficulty-scale3 {
 	height: 22px;
-	width: 8px;
+	width: 6px;
 	background-color: #eeeeee;
 	border-radius: 40%;
 	display: inline-block;
-	border: .5px dotted black;
 	position: relative;
 	top: 2px;
+	left: 1px;
+	box-shadow: 0 0 1px 1px #eeeeee;
 }

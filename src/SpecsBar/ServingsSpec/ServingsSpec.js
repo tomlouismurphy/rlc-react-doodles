@@ -4,7 +4,13 @@ import './ServingsSpec.css';
 export class ServingsSpec extends Component {
 	render() {
 		return (
-			<span className="spec-unique">2</span>
+			<div className="spec-unique">
+				<div id="spoon-handle">
+				</div>
+				<div id="spoon-bowl">
+				</div>
+				<div id="serv-text">2</div>
+			</div>
 		);
 	}
 }

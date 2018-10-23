@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './RecipeBase.css';
 import {MainImage} from '../MainImage/MainImage.js';
 import {SpecsBar} from '../SpecsBar/SpecsBar.js';
+import {TagsBar} from '../TagsBar/TagsBar.js';
 
 class App extends Component {
   render() {
@@ -13,6 +14,7 @@ class App extends Component {
         </header>
         <MainImage />
         <SpecsBar />
+        <TagsBar />
       </div>
     );
   }
