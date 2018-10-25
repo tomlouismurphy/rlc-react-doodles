@@ -7,7 +7,7 @@ export class TagsBar extends Component {
 	constructor() {
 		super();
 		this.state = {
-			tags: ['VEGAN', 'HEALTHY', 'DINNER']
+			tags: ['VEGAN', 'HEALTHY', 'DINNER', 'CHEESY', 'KIDS', 'NUTS']
 		}
 	}
 	render() {
