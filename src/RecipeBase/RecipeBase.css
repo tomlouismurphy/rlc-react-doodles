@@ -23,8 +23,9 @@
   color: #61dafb;
 }
 
-#separator-1 {
+.separator {
   height: 2px;
   background-color: #eeeeee;
   margin-bottom: 20px;
 }
+
