@@ -1,10 +1,12 @@
 .single-direction {
 	display: inline;
 	color: pink;
+	text-align: left;
 }
 
 .direction-index {
 	display: inline;
+	margin-right: 5px;
 }
 
 .direction-action {

@@ -7,6 +7,7 @@ import {TagsBar} from '../TagsBar/TagsBar.js';
 import {MainBody} from '../MainBody/MainBody.js';
 import {IngredientList} from '../IngredientList/IngredientList.js';
 import {Directions} from '../Directions/Directions.js';
+import {CommentSection} from '../CommentSection/CommentSection.js';
 
 class App extends Component {
   render() {
@@ -23,6 +24,7 @@ class App extends Component {
         <IngredientList />
         <div className="separator col-sm-10 offset-sm-1"></div>
         <Directions />
+        <CommentSection />
       </div>
     );
   }
