@@ -2,8 +2,14 @@
 	padding-top: 30px;
 	color: black;
 	text-align: left;
+	margin-left: 7vw;
+	margin-bottom: 20px;
 }
 
 #comment-container {
 	background-color: silver;
+}
+
+#new-comment-box {
+	height: 20vh;
 }

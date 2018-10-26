@@ -11,7 +11,7 @@ export class IngredientList extends Component {
 	}
 	render() {
 		return (
-			<div >
+			<div id="ingredient-list">
 				<h4 id="ingredient-title">Ingredients</h4>
 				<ul>
 					{this.state.ingredients.map((ingred) => {
